@@ -1,0 +1,21 @@
+{
+  "name": "apiv1",
+  "version": "1.0.0",
+  "description": "NODE JS APIV1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "NODE/JS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
